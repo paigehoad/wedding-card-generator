@@ -43,12 +43,9 @@ This tool makes it easier for:
 
 ## 🚀 Live Demo
 
-If you enable GitHub Pages, your site will appear here:
-(
-'''
+
 https://paigehoad.github.io/wedding-card-generator/
 
-'''
 ---
 
 ## 📂 How to Use Locally (which why - just use it on the web!) 
